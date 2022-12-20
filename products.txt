@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Felicidad",
+        "price": 456,
+        "thumbnail": "www.urlhappines.com",
+        "id": 1
+    },
+    {
+        "title": "Soledad",
+        "price": 220,
+        "thumbnail": "www.urlhappines.com",
+        "id": 2
+    },
+    {
+        "title": "Suerte",
+        "price": 777,
+        "thumbnail": "www.urlhappines.com",
+        "id": 3
+    }
+]
